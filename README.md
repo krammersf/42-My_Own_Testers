@@ -1,5 +1,8 @@
 # 42-My_Own_Testers
 
+<details>
+    <summary> SO LONG</summary>
+
 ## SO LONG - Invalid Maps
 
 Open the terminal and run:
@@ -21,7 +24,13 @@ To test your so_long_bonus, your executable must have this name: so_long_bonus
 
 Thanks for tryng it!!!
 
-## CPP00 - ex00 parser checker
+</details>
+
+
+<details>
+    <summary> CPP 09</summary>
+
+## CPP09 - ex00 parser checker
 
 Open the terminal and run:
 ```
@@ -41,3 +50,5 @@ Explanation:
 - ~> EXPECTED ~> The expected output;
 
 Thanks for tryng it!!!
+
+</details>
