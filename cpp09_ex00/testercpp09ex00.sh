@@ -87,7 +87,7 @@ Error: more than one '.'
 Error: not a number.
 Error: not a number.
 2012-01-03 => 1.2 = 6.54
-Error: not a number.
+Error: not a positive number.
 Error: not a number.
 Error: bad input => 2001-42-42
 2012-01-11 => 1000 = 7100
